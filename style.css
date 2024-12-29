@@ -1,0 +1,192 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #170D25;
+    /* display: flex;
+    align-items: center;
+    justify-content: center;
+    */
+}
+
+.card button:hover {
+    background-color: #D28CFF;
+}
+
+.card {
+    height: 515px;
+    width: 310px;
+    background-color: rgb(58, 38, 50);
+    position: absolute;
+    margin: auto ;
+    inset: 0;
+    padding: 32px;
+    border-radius: 16px;
+    margin-left: 26rem;
+    transition: transform 200ms;
+    box-shadow: rgba(0, 0, 0, 0.35) 13px 34px 17px 12px;
+}
+
+.starting-text {
+    color: #D28CFF;
+}
+
+.symbol {
+    display: inline-block;
+    padding-bottom: 10px;
+}
+
+.div-span {
+    color: #D28CFF;
+}
+
+span {
+    position: absolute;
+    top: 211px;
+}
+
+.pricing {
+    font-size: calc(30px * pow(1.5, 2));
+    display: inline-block;
+    color: white;
+    padding-left: 21px;
+    position: absolute;
+    top: 152px;
+}
+
+button {
+    background-color: #4B3D49;
+    display: inline-block;
+    position: absolute;
+    top: 313px;
+    left: 61px;
+    color: black;
+    /* border: 2px solid #04AA6D; */
+    border-radius: 19px;
+    width: 255px;
+    height: 40px;
+    margin-top: ;
+}
+
+.upper-text {
+    color: #ECE1EC;
+    display: inline-block;
+}
+
+/* .button:hover{
+    transform: scale(1.5)
+} */
+#card:hover {
+    transform: scale(1.1)
+}
+
+/* button:hover{
+    background-color:#D28CFF ;
+} */
+ul {
+    position: sticky;
+    top: 444px;
+    list-style-image: url('data:image/svg+xml,url("data:image/svg+xml,url("data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24"><path fill="none" stroke="%23000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 6 9 18l-6-6"></path></svg>")")');
+
+}
+
+li{
+  
+    color: white;
+    list-style-image: url('data:image/svg+xml,url("data:image/svg+xml,url("data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24"><path fill="none" stroke="%23000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 6 9 18l-6-6"></path></svg>")")');
+   
+}
+
+
+
+
+
+.second-card{
+    height: 515px;
+    width: 310px;
+    background-color: rgb(58, 38, 50);
+    padding: 32px;
+    border-radius: 16px;
+    transition: transform 200ms;
+    box-shadow: rgba(0, 0, 0, 0.35) 13px 34px 17px 12px;
+    position: absolute;
+    margin-top:2.5rem  ;
+    inset: 0;
+
+    
+}
+.second-button{
+    background-color: #4B3D49;
+    display: inline-block;
+    position: absolute;
+    border-radius: 19px;
+    width: 255px;
+    height: 40px;  position: absolute;
+    top: 313px;
+    left: 61px;
+   
+}
+#second-card:hover {
+    transform: scale(1.1)
+}
+.second-div-span{
+    color: #8DF4E9;
+    
+}
+.second-starting-text{
+    color:#8DF4E9;
+}
+.second-card button:hover {
+    background-color: #8DF4E9;
+}
+
+
+
+
+
+
+#third-card{
+    position: absolute;
+    margin-top:0rem ;
+    margin-left: 52rem;
+    margin-top:2.5rem  ;
+    inset: 0;
+    height: 515px;
+    width: 310px;
+    background-color: rgb(58, 38, 50);
+    padding: 32px;
+    border-radius: 16px;
+    transition: transform 200ms;
+    box-shadow: rgba(0, 0, 0, 0.35) 13px 34px 17px 12px;
+   
+}
+.third-upper-text{
+    color: white;
+}
+#third-card:hover {
+    transform: scale(1.1)
+}
+.third-div-span{
+    color: #94DBFB;
+    
+}
+.third-starting-text{
+    color:#94DBFB;
+}
+.third-card button:hover {
+    background-color: #94DBFB;
+
+}
+.third-card-button:hover{
+
+    background-color: #94DBFB;
+    
+
+}
+
+
+
+
+
+
+
+
+
